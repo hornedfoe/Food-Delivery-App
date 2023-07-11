@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "64ab0a66c8047253fb8d7911"
+  },
+  "categoryName": "Appetizers"
+},
+{
+  "_id": {
+    "$oid": "64ab0a66c8047253fb8d7912"
+  },
+  "categoryName": "Main Course"
+},
+{
+  "_id": {
+    "$oid": "64ab0a66c8047253fb8d7913"
+  },
+  "categoryName": "Desserts"
+},
+{
+  "_id": {
+    "$oid": "64ab0a66c8047253fb8d7914"
+  },
+  "categoryName": "Beverages"
+},
+{
+  "_id": {
+    "$oid": "64ab0a66c8047253fb8d7915"
+  },
+  "categoryName": "Salads"
+}]

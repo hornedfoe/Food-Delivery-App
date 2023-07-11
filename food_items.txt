@@ -1,0 +1,154 @@
+[{
+  "_id": {
+    "$oid": "64ab09eec8047253fb8d7905"
+  },
+  "name": "Chicken Wings",
+  "options": [
+    {
+      "small": 6.99,
+      "large": 10.99
+    }
+  ],
+  "description": "Delicious crispy chicken wings served with your choice of dipping sauce.",
+  "categoryName": "Appetizers"
+},
+{
+  "_id": {
+    "$oid": "64ab09eec8047253fb8d7906"
+  },
+  "name": "Nachos",
+  "options": [
+    {
+      "small": 8.99,
+      "large": 12.99
+    }
+  ],
+  "description": "Loaded nachos topped with melted cheese, jalapenos, sour cream, and salsa.",
+  "categoryName": "Appetizers"
+},
+{
+  "_id": {
+    "$oid": "64ab09eec8047253fb8d7907"
+  },
+  "name": "Cheeseburger",
+  "options": [
+    {
+      "small": 9.99,
+      "large": 13.99
+    }
+  ],
+  "description": "Juicy beef patty topped with melted cheese, lettuce, tomato, and pickles on a sesame bun.",
+  "categoryName": "Main Course"
+},
+{
+  "_id": {
+    "$oid": "64ab09eec8047253fb8d7908"
+  },
+  "name": "Margherita Pizza",
+  "options": [
+    {
+      "small": 10.99,
+      "large": 14.99
+    }
+  ],
+  "description": "Classic pizza topped with fresh mozzarella, tomatoes, and basil leaves.",
+  "categoryName": "Main Course"
+},
+{
+  "_id": {
+    "$oid": "64ab09eec8047253fb8d7909"
+  },
+  "name": "Chocolate Cake",
+  "options": [
+    {
+      "small": 5.99,
+      "large": 8.99
+    }
+  ],
+  "description": "Rich and moist chocolate cake layered with decadent chocolate frosting.",
+  "categoryName": "Desserts"
+},
+{
+  "_id": {
+    "$oid": "64ab09eec8047253fb8d790a"
+  },
+  "name": "Ice Cream Sundae",
+  "options": [
+    {
+      "small": 4.99,
+      "large": 7.99
+    }
+  ],
+  "description": "A delightful combination of ice cream, whipped cream, chocolate sauce, and a cherry on top.",
+  "categoryName": "Desserts"
+},
+{
+  "_id": {
+    "$oid": "64ab09eec8047253fb8d790b"
+  },
+  "name": "Cola",
+  "options": [
+    {
+      "small": 1.99,
+      "large": 3.49
+    }
+  ],
+  "description": "Refreshing cola drink served chilled.",
+  "categoryName": "Beverages"
+},
+{
+  "_id": {
+    "$oid": "64ab09eec8047253fb8d790c"
+  },
+  "name": "Iced Tea",
+  "options": [
+    {
+      "small": 2.49,
+      "large": 4.29
+    }
+  ],
+  "description": "Iced tea infused with a hint of lemon, perfect for quenching your thirst.",
+  "categoryName": "Beverages"
+},
+{
+  "_id": {
+    "$oid": "64ab09eec8047253fb8d790d"
+  },
+  "name": "Caesar Salad",
+  "options": [
+    {
+      "small": 7.99,
+      "large": 11.99
+    }
+  ],
+  "description": "Classic Caesar salad with crisp romaine lettuce, parmesan cheese, and Caesar dressing.",
+  "categoryName": "Salads"
+},
+{
+  "_id": {
+    "$oid": "64ab09eec8047253fb8d790e"
+  },
+  "name": "Greek Salad",
+  "options": [
+    {
+      "small": 8.99,
+      "large": 12.99
+    }
+  ],
+  "description": "Fresh and tangy Greek salad with tomatoes, cucumbers, olives, feta cheese, and a zesty dressing.",
+  "categoryName": "Salads"
+},
+{
+  "_id": {
+    "$oid": "64ab09eec8047253fb8d7998"
+  },
+  "name": "Chicken Fry",
+  "options": [
+    {
+      "small": 7.99,
+      "large": 11.99
+    }
+  ],
+  "description": "Delicious crispy chicken fry served with your choice of dipping sauce.",
+  "categoryName": "Appetizers"
+}]
