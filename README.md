@@ -5,7 +5,7 @@
 3. copy the create the specified database
 4. create 'food_items' collection
 5. copy or insert the data given in 'food_items.txt' into that collection
-6. create 'foodCategry' collection
+6. create 'foodCategory' collection
 7. copy or insert the data given in 'foodCategory.txt' into that collection
 
 # SERVER
