@@ -7,6 +7,7 @@ global.foodData = require('./db')(function call(err, data, CatData) {
 
 const express = require('express')
 const app = express()
+const cors = require('cors');
 const port = 5000
 app.use((req, res, next) => {
   res.setHeader("Access-Control-Allow-Origin", "http://localhost:3000");
@@ -17,7 +18,7 @@ app.use((req, res, next) => {
   next();
 });
 app.use(express.json())
-
+app.use(cors());
 app.get('/', (req, res) => {
   res.send('Hello World!')
 })
